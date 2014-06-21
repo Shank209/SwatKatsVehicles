@@ -160,10 +160,18 @@ body
 		margin:auto;
 		font-size:61px;
 		width:300px;
+		text-align:center;
 	}
 	
 	#container
 	{
 		width:300px;
+	}
+	
+	#links
+	{
+		width:300px;
+		display:block;
+		margin:auto;
 	}
 }
